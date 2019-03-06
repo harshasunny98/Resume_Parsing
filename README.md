@@ -9,3 +9,5 @@ https://medium.com/@souvikghosh_archidev/build-a-rasa-nlu-chatbot-with-spacy-wit
 https://apps.worldwritable.com/tutorials/chatbot/
 
 https://explosion.ai/blog/chatbot-node-js-spacy
+
+https://www.analyticsvidhya.com/blog/2017/04/natural-language-processing-made-easy-using-spacy-%E2%80%8Bin-python/
